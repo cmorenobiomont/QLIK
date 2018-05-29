@@ -1,0 +1,2 @@
+# QLIK
+Querys Qlik
